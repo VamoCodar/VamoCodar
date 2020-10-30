@@ -17,7 +17,7 @@
 </a>
 
 <br />
-<img align="right" width="400px"alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
+<img align="right" width="400px" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
 
 ### ⭐️ Viva o Javascript!!!
 - Super aberto para novas conexoes e disposto a conversar sobre tecnologia e programação, só clicar em uma das redes ali em cima ô  <img  alt="seta" width="12px" src="https://github.com/VamoCodar/VamoCodar/blob/main/eff411f228d9f15fe132d326790b83e2.png?raw=true" />.
@@ -26,7 +26,8 @@
 - Estou em busca de oportunidades de trabalho como Front em Junior.
 - em uma jornada incansavel para me tornar um otimo desenvolvedor front end.
 
-#### Tecnologias que trabalho: <img width="22px" alt="https://raw.githubusercontent.com/VamoCodar/VamoCodar/b3088fd206fd9a05f948c21648ad496821c6e0fe/2089678.svg" />
+#### Tecnologias que trabalho:  <img width="15px" alt="seta" src="https://github.com/VamoCodar/VamoCodar/blob/main/98703.png?raw=true"  />
+
 
 <img align="right" alt="adobe xd"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/65bf0fe3b3a8cf0b896916696ae0c75157debb4e/Adobe_XD.svg" />
 <img align="right" alt="figma"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/Figma.svg" />
