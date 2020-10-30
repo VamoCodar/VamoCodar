@@ -16,10 +16,13 @@
   <img align="left" alt="Dribbble de adriano" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
 
-<br />
-<img align="right" width="350px" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
 
-### ⭐️ Viva o Javascript!!!
+
+<img align="right" width="350px" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />  <br/>
+
+
+
+### ⭐️ Viva o Javascript!!!<br/>
 - Aberto para novas conexões e disposto a conversar sobre programação e tecnologia, só clicar em uma das redes ali em cima ô  <img  alt="seta" width="12px" src="https://github.com/VamoCodar/VamoCodar/blob/main/eff411f228d9f15fe132d326790b83e2.png?raw=true" />.
 - Sou um entusiasta Open Source e adoro sugerir ferramentas alternativas.
 - Resolvendo problemas diariamente desde que me conheço por gente.
