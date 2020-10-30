@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
 <a href="https://t.me/tadebrinkadriano">
-  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/telegram.svg" />
+  <img align="left" alt="telegram" width="22px" src="https://github.com/VamoCodar/VamoCodar/blob/main/image%202.png?raw=true" />
 </a>
 
 <a href="https://www.linkedin.com/in/4driano/">
