@@ -26,7 +26,7 @@
 - Estou em busca de oportunidades de trabalho como Front em Junior.
 - em uma jornada incansavel para me tornar um otimo desenvolvedor front end.
 
-#### Tecnologias que trabalho:  <img width="15px" alt="seta" src="https://github.com/VamoCodar/VamoCodar/blob/main/98703.png?raw=true"  />
+#### Tecnologias que trabalho:  <img width="20px"  alt="seta" src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/47d48e0010c1cc414f1e35b61d160a5738c7ca6d/thin_long_02_right.svg"  />
 
 
 <img align="right" alt="adobe xd"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/65bf0fe3b3a8cf0b896916696ae0c75157debb4e/Adobe_XD.svg" />
