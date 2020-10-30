@@ -17,7 +17,7 @@
 </a>
 
 <br />
-<img align="right" width="400px" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
+<img align="right" width="350px" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
 
 ### ⭐️ Viva o Javascript!!!
 - Super aberto para novas conexoes e disposto a conversar sobre tecnologia e programação, só clicar em uma das redes ali em cima ô  <img  alt="seta" width="12px" src="https://github.com/VamoCodar/VamoCodar/blob/main/eff411f228d9f15fe132d326790b83e2.png?raw=true" />.
