@@ -35,14 +35,13 @@
 - Em uma jornada incansável para me tornar um ótimo desenvolvedor Front End.
 
 
-#### Tecnologias que trabalho:  <img width="20px"  alt="seta" src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/47d48e0010c1cc414f1e35b61d160a5738c7ca6d/thin_long_02_right.svg"  />
+#### Tecnologias que trabalho:  
 
-
-<img align="right" alt="adobe xd"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/65bf0fe3b3a8cf0b896916696ae0c75157debb4e/Adobe_XD.svg" />
-<img align="right" alt="figma"  width="20px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/Figma.svg" />
-<img align="right" alt="javascript"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/javascript.svg" />
-<img align="right" alt="css3"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/css3.svg" />
-<img align="right" alt="html5"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/html5.svg" />
+<img align="left" alt="adobe xd"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/65bf0fe3b3a8cf0b896916696ae0c75157debb4e/Adobe_XD.svg" />
+<img align="left" alt="figma"  width="20px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/Figma.svg" />
+<img align="left" alt="javascript"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/javascript.svg" />
+<img align="left" alt="css3"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/css3.svg" />
+<img align="left" alt="html5"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/html5.svg" />
 
 
 
