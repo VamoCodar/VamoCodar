@@ -1,4 +1,4 @@
-## ALABUMTIKABUMM <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="aceno" width="25px"></h2>
+## ALA BUM TIKABUM
 
 <a href="https://t.me/tadebrinkadriano">
   <img align="left" alt="telegram" width="24px" src="https://github.com/VamoCodar/VamoCodar/blob/main/image%202.png?raw=true" />
