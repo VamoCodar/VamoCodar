@@ -28,7 +28,6 @@
 
 
 ### Javascript   ⭐️
-Disposto a conversar sobre programação e tecnologia, só clicar em uma das redes ali em cima ô  <img  alt="seta" width="12px" src="https://github.com/VamoCodar/VamoCodar/blob/main/eff411f228d9f15fe132d326790b83e2.png?raw=true" />.
 
 <p>Sou um entusiasta Open Source e adoro sugerir ferramentas alternativas.<br></p>
 <p>Resolvendo problemas diariamente desde que me conheço por gente.<br></p>
