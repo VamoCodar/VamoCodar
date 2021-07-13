@@ -34,6 +34,8 @@
 <p>Estou em busca de oportunidades de trabalho como Front End.<br></p>
 <p>Em uma jornada incansável para me tornar um ótimo desenvolvedor Front End.<br></p>
 
+&nbsp;
+
 
 #### Tecnologias que trabalho:  
 
