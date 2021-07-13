@@ -8,9 +8,6 @@
   <img align="left" alt="Linkedin de adriano" width="24px" src="https://github.com/VamoCodar/VamoCodar/blob/main/linkedin-outline.png?raw=true" />
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5531998506206&text=ola%2C%20encontrei%20voc%C3%AA%20no%20github%20!!!">
-  <img align="left" alt="whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
 
 <a href="https://dribbble.com/semnexo">
   <img align="left" alt="Dribbble de adriano" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
