@@ -1,20 +1,5 @@
 ## ALA BUM TIKABUM
 
-<a href="https://t.me/tadebrinkadriano">
-  <img align="left" alt="telegram" width="24px" src="https://github.com/VamoCodar/VamoCodar/blob/main/image%202.png?raw=true" />
-</a>
-
-<a href="https://www.linkedin.com/in/4driano/">
-  <img align="left" alt="Linkedin de adriano" width="24px" src="https://github.com/VamoCodar/VamoCodar/blob/main/linkedin-outline.png?raw=true" />
-</a>
-
-
-<a href="https://dribbble.com/semnexo">
-  <img align="left" alt="Dribbble de adriano" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-</a>
-
-
-&nbsp;
 
 
 
@@ -29,13 +14,8 @@
 &nbsp;
 
 
-#### Tecnologias que trabalho:  
-
-<img align="left" alt="adobe xd"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/65bf0fe3b3a8cf0b896916696ae0c75157debb4e/Adobe_XD.svg" />
-<img align="left" alt="figma"  width="20px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/Figma.svg" />
-<img align="left" alt="javascript"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/javascript.svg" />
-<img align="left" alt="css3"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/css3.svg" />
-<img align="left" alt="html5"  width="24px"  src="https://raw.githubusercontent.com/VamoCodar/VamoCodar/4fa3b2ba7a5c2e8e9aaf23d86785b72517dbac5d/html5.svg" />
-
+<a href="https://www.linkedin.com/in/4driano/">
+  <img align="left" alt="Linkedin de adriano" width="24px" src="https://github.com/VamoCodar/VamoCodar/blob/main/linkedin-outline.png?raw=true" />
+</a>
 
 
